@@ -1,0 +1,2 @@
+開啟主程式main.m即可run
+調整擺放方式:channel.m
